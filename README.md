@@ -18,4 +18,4 @@ Papildomai ateity planuoju papildyti ir pataisyti kelias vietas:
   
 Trumpa instrukcija:
 Pagrindiniai veiksmai detaliai paaiškinami konsolėje, tačiau norint pamatyti išsaugotus duomenis reikia per aplankalą peržiūrėti atitinkamus .txt failus, ypač nuskaitant duomenis iš failo (2) reikėtų surasti ir peržiūrėti [Geri.txt] ir [Blogi.txt], kad pamatyti atskirtus studentus.
-
+ 
